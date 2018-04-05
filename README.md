@@ -1,1 +1,1 @@
-# WebDevBootcamp
+This contains codes that I practiced while learning the course "The Complete Web Dev Boot Camp" from Udemy.
